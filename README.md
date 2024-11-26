@@ -12,16 +12,25 @@ Sample Python application on Django with PostgreSQL database.
 ____
 
 
+<<<<<<< HEAD
+- docker 27.3.1
+=======
 - django 4.0.1
 - Pillow 9.0.0
 - psycopg2-binary 2.9.3
 - django-prometheus 2.2.0
+>>>>>>> 7a32ca10ff2604db537b09f54e59bbfbf49ae8cc
 
 <h3>Deployment</h3>
 
 ____
 
 
+<<<<<<< HEAD
+* start application:
+```shell
+docker compose up
+=======
 
 - install Python 3.8
 - install libs 
@@ -48,4 +57,5 @@ python3 manage.py migrate
 * start application:
 ```shell
 python3 manage.py runserver 0.0.0.0:8000
+>>>>>>> 7a32ca10ff2604db537b09f54e59bbfbf49ae8cc
 ```

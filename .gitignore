@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+#media/uploads/*
+#db.sqlite3
+#.compose/db/*
+#.compose/web/*
+data/
+=======
 media/uploads/*
 db.sqlite3
 .compose/db/*
 .compose/web/*
+>>>>>>> 7a32ca10ff2604db537b09f54e59bbfbf49ae8cc
